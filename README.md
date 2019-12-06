@@ -2,4 +2,4 @@
 
 React JS exercise (Courses - Nomad Coders)
 
-Link: https://kathy95917.github.io/movie_app_2019/
+*Link: https://kathy95917.github.io/movie_app_2019/
